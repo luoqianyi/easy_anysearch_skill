@@ -2,6 +2,8 @@
 
 一个 Claude Code Skill，当用户需要搜索互联网或获取知识截止日期后的实时信息时，通过 [AnySearch](https://www.anysearch.com/home) 获取搜索结果。
 
+![架构图](assets/architecture.png)
+
 ## 功能特性
 
 - **自动触发**：用户询问最新资讯、当前事件、实时数据时自动激活
